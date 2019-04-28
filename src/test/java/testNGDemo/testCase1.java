@@ -13,4 +13,9 @@ public class testCase1 extends testNGAnnotationsList{
 	public void test2() {
 		logger.info("@Test Annotation Test case 2");
 	}
+	
+		@Test
+	public void test3() {
+		logger.info("@Test Annotation Test case 3");
+	}
 }
